@@ -29,3 +29,6 @@ sudo snap install vlc
 
 # Install the usual programs
 sudo apt  -y
+
+# Remove trash
+sudom apt-get autoremove
