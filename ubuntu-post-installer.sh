@@ -22,7 +22,7 @@ sudo apt install openshot-qt python3-openshot -y
 sudo apt install snapd -y
 # Slack
 sudo snap install slack --classic
-# Pycharm
+# Pycharm Profession Install
 sudo snap install pycharm-professional --classic
 # VLC player install
 sudo snap install vlc
