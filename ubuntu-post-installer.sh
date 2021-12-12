@@ -24,6 +24,7 @@ sudo apt install snapd -y
 sudo snap install slack --classic
 # Pycharm
 sudo snap install pycharm-professional --classic
-# VLC player
+# VLC player install
 sudo snap install vlc
+
 
