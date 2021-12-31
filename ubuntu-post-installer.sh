@@ -26,5 +26,5 @@ sudo snap install slack --classic
 sudo snap install pycharm-professional --classic
 # VLC player install
 sudo snap install vlc
-
-
+# ffmpeg install
+sudo snap install ffmpeg
