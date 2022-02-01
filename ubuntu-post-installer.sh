@@ -13,6 +13,8 @@ sudo apt install texlive-full -y
 sudo apt-get install texstudio -y
 # Git
 sudo apt install git-all -y
+# pip
+sudo apt install pip
 # Open-shot video editor
 sudo add-apt-repository ppa:openshot.developers/ppa
 sudo apt update -y
